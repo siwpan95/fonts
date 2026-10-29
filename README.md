@@ -1,3 +1,8 @@
+> 📦 **已归档（Archived — 仅作参考）**
+> 本仓库已收入归档仓 **dev-toolkit**（代码与完整 git 历史一并迁入，原仓冻结不再开发）。
+> 历史分支见归档仓的 `archive/fonts` 分支；活跃维护请前往 **dev-toolkit**。
+> _This repo is archived into dev-toolkit; development continues there. Do not commit here._
+
 # fonts
 
 中文字体资源库 + 字体复制工具 —— 本地中文字体库（TTF/TTC/OTF 数百个）与一个 Tkinter 字体浏览/复制工具。
